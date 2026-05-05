@@ -50,7 +50,7 @@
 👉 [Open ClusterFlow App](https://cluster-flowgit-ngvtwthrjixov7cb8shkpg.streamlit.app/)
 
 ## 📊 Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/Midhull/cluster-flow/main/your-screenshot.png)
+![Dashboard](https://raw.githubusercontent.com/Midhull/cluster-flow/main/dashboard.png)
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).

@@ -46,5 +46,11 @@
 5. **Predict**: Use the prediction section to classify new potential customers.
 6. **Export**: Click "Download Segmented Data" to use the results in your CRM or marketing tools.
 
+## 🚀 Live Dashboard
+👉 [Open ClusterFlow App](https://cluster-flowgit-ngvtwthrjixov7cb8shkpg.streamlit.app/)
+
+## 📊 Dashboard Preview
+![Dashboard](https://raw.githubusercontent.com/Midhull/cluster-flow/main/your-screenshot.png)
+
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).

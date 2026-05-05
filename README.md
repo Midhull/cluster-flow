@@ -2,7 +2,7 @@
 
 **ClusterFlow** is a professional-grade customer segmentation tool built with Python, Scikit-Learn, and Streamlit. It enables businesses to discover hidden patterns in their customer base using unsupervised machine learning (K-Means Clustering).
 
-![Dashboard Preview](https://img.icons8.com/fluency/96/brainstorming.png)
+![Dashboard](https://raw.githubusercontent.com/Midhull/cluster-flow/main/dashboard.png)
 
 ## 🚀 Key Features
 

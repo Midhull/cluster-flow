@@ -49,8 +49,7 @@ st.markdown("""
 
 # --- Sidebar ---
 with st.sidebar:
-    st.image("https://img.icons8.com/fluency/96/brainstorming.png", width=80)
-    st.title("ClusterFlow")
+    st.title("🧠 ClusterFlow")
     st.markdown("### AI-Powered Segmentation")
     st.divider()
     
